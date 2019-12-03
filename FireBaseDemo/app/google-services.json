@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "489877440086",
+    "firebase_url": "https://starlit-braid-257610.firebaseio.com",
+    "project_id": "starlit-braid-257610",
+    "storage_bucket": "starlit-braid-257610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489877440086:android:cbfeb51052f6d8d0e39df7",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489877440086-5oe8be23ds9d7fsv866lnr0b8qmq6851.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpbWaDCSpksXJoXztlNPYqMcwDknpz39Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489877440086-5oe8be23ds9d7fsv866lnr0b8qmq6851.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
